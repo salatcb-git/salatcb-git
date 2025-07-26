@@ -31,7 +31,7 @@ Atualmente, atuo como **Consultor Sênior de Segurança da Informação**, espec
 
 Aqui você pode fixar e referenciar seus repositórios mais relevantes. O `NetworkDiagramGenerator` é um excelente exemplo do seu conhecimento prático.
 
-* **[Network Diagram Generator](https://github.com/SeuUsuario/NetworkDiagramGenerator)**: Projeto pessoal em Python focado em detectar e visualizar conexões de rede em hosts, com o objetivo de gerar diagramas explicativos para segurança e auditoria.
+* **[Network Diagram Generator](https://github.com/salatcb-git/NetworkDiagramGenerator)**: Projeto pessoal em Python focado em detectar e visualizar conexões de rede em hosts, com o objetivo de gerar diagramas explicativos para segurança e auditoria.
 * **[Nome de Outro Projeto/Contribuição]**: Breve descrição.
 * **[Nome de Outro Projeto/Contribuição]**: Breve descrição.
     *(Adicione aqui outros projetos públicos que você tenha ou crie no futuro.)*
