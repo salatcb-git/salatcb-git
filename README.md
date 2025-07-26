@@ -1,6 +1,6 @@
 ### Olá! 👋 Sou Salatiel Barbosa
 
-Com mais de **24 anos de experiência em Tecnologia da Informação**, sou um profissional **QSA (Qualified Security Assessor)** pelo PCI Council e **Auditor Líder ISO 27001**. Minha paixão é garantir a **segurança, conformidade e alta disponibilidade** de ambientes complexos, sempre buscando soluções estratégicas e eficazes.
+Com mais de **24 anos de experiência em Tecnologia da Informação**, sou um profissional **QSA (Qualified Security Assessor)** pelo PCI Council e **Auditor Líder ISO 27001**. Meu objetivo é ajuda-lo a garantir a **segurança, conformidade e alta disponibilidade** de ambientes complexos, sempre buscando soluções estratégicas e eficazes.
 
 Atualmente, atuo como **Consultor Sênior de Segurança da Informação**, especializando-me em **PCI DSS Compliance** e na elevação do nível de maturidade em segurança para organizações do setor de meios de pagamento.
 
