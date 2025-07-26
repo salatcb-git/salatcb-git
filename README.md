@@ -23,7 +23,7 @@ Atualmente, atuo como **Consultor Sênior de Segurança da Informação**, espec
 * **Infraestrutura:** `Windows Server`, `Linux (Ubuntu/CentOS)`, `Active Directory`, `VLANs`, `Firewalls`, `Proxies`
 * **Monitoramento:** `Nagios`, `Zabbix`
 * **Automação & Scripting:** `Python` (para ferramentas como o Network Diagram Generator), `PowerShell` (inferido da experiência em Windows), `Bash` (inferido da experiência em Linux)
-* **Sistemas de Email:** `Qmail`, `Microsoft Exchange`
+* **Sistemas de Email:** `Qmail`, `Microsoft Exchange`, Zimbra
 
 ---
 
